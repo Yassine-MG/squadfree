@@ -364,7 +364,7 @@ main{
     color: white;
     margin-bottom: 30px;
 }
-#section-4 button{
+#section-4 a{
     padding: 10px 30px;
     font-size: 16px;
     text-transform: uppercase;
@@ -374,8 +374,9 @@ main{
     margin-bottom:  10px; 
     transition: ease-in 0.2s all;
     cursor: pointer;
+    color: white;
 }
-#section-4 button:hover{
+#section-4 a:hover{
     border: solid white 2px;
 }
 #section-4 button a{
