@@ -164,12 +164,6 @@ a{
     padding-top: 15px;
     background-color: rgba(255, 255, 255, 0.241);
 }
-.signe i{
-    transform: translateY(0);
-}
-.signe i:hover{
-   transform: scaleY(10px);
-}
 /* ------- main------- */
 /* ---------Section 1--------- */
 main{
@@ -438,6 +432,7 @@ main{
     width: 30%;
     margin: 5px 10px;
     position: relative;
+    overflow: hidden;
 }
 .div a{
     color: rgb(255, 255, 255);
